@@ -101,10 +101,12 @@ Scheduling a meeting in advance allows you to plan and organize your virtual gat
 ![schedule.png](./img/schedule.png)
 
 2.	A scheduling form will appear, allowing you to enter the meeting details.
+
 ![schedule_options.png](./img/schedule_options.png)
 
 3.	Enter a descriptive title for your meeting in the "Topic" field.
 4.	Specify the date and time for your meeting. Use the calendar or date picker to select the desired date and time.
+
 ![date_time.png](./img/date_time.png)
 
 5.	Customize the duration of the meeting by specifying the start and end times. Zoom’s free version has a 40-minute time limit on meetings. 
@@ -117,6 +119,7 @@ Scheduling a meeting in advance allows you to plan and organize your virtual gat
 ![schedule_waiting_room.png](./img/schedule_waiting_room.png)
 
 8. Video: Determine the default video settings for participants joining your meetings. You can choose whether participants' video should be on or off when they join the meeting.
+
 ![schedule_video.png](./img/schedule_video.png)
 
 9. Calendar Integration: Zoom offers seamless integration with popular calendar applications such as Outlook, Google Calendar, and other calendar platforms. This integration ensures that your Zoom meetings are synchronized with your calendar, allowing you to manage your schedule efficiently and receive timely reminders for upcoming meetings.
