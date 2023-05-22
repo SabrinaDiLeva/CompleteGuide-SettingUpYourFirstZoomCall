@@ -109,7 +109,7 @@ Scheduling a meeting in advance allows you to plan and organize your virtual gat
  
     ![date_time.png](./img/date_time.png)
 
-5.	Customize the duration of the meeting by specifying the start and end times. Zoom’s free version has a 40-minute time limit on meetings. 
+5.	Customize the duration of the meeting by specifying the start and end times. Zoom's free version has a 40-minute time limit on meetings. 
 
     ![duration.png](./img/duration.png)
 
@@ -199,3 +199,42 @@ To access the chat window, click on the "Chat" button in the meeting toolbar at 
 * At the end of the meeting, you can save the chat log for future reference or documentation purposes. To save the chat, click on the "More" button (represented by three dots) in the chat window, and select the "Save Chat" option.
 
     ![save_chat.png](./img/save_chat.png)
+
+#### Share Screen
+To start screen sharing, locate the "Share Screen" button in the meeting toolbar at the bottom of the Zoom interface. After clicking the "Share Screen" button, a new window will appear displaying the available screens or applications that can be shared. You can choose to share your entire screen, a specific application window, or a specific portion of your screen.
+
+![share_screen.png](./img/share_screen.png)
+
+* While sharing your screen, Zoom provides controls at the top of the screen for easy management.
+![tools.png](./img/tools.png)
+
+* You can pause or stop screen sharing, switch between different screens or application windows, and access additional options such as annotation tools.
+![annotations.png](./img/annotations.png)
+
+* To stop sharing your screen, click on the "Stop Share" button in the floating Zoom meeting control bar.
+
+#### Record
+To access the recording controls, locate the "Record" button in the meeting toolbar at the bottom of the Zoom interface.
+![record.png](./img/record.png)
+
+* Once the recording has started, you can use the recording controls in the toolbar to manage the recording:
+    * Pause/Resume: Click the "Pause" or "Resume" button to temporarily pause or resume the recording.
+    * Stop: Click the "Stop" button to end the recording.
+![stop_recording.png](./img/stop_recording.png)
+
+* If you choose to record on your computer, the recorded files will be saved to a designated location on your device.
+* If you choose to record to the cloud, Zoom will process the recording after the meeting is finished. Once it's complete, you will receive an email notification with a link to access and share the recording.
+
+#### Reactions
+Reactions in Zoom allow participants to express their emotions and provide feedback during a meeting. To access the reactions options, locate the "Reactions" button in the meeting toolbar at the bottom of the Zoom interface. These reactions include thumbs up, clapping hands, raised hand, heart, laughing face, and more. You can see the reactions of other participants in real-time, allowing for a visual representation of their engagement and feedback.
+
+![reactions.png](./img/reactions.png)
+
+#### End meeting
+Finally, to end the call, locate the "End " button in the meeting controls.
+![end.png](./img/end.png)
+
+* “End Meeting for All” means that the meeting will be terminated for all participants simultaneously. This action forcefully ends the meeting for everyone, and all participants will be disconnected from the call.
+* When a participant chooses to "Leave Meeting," it means that they are voluntarily disconnecting themselves from the meeting. Leaving the call is an individual action, and it only affects the participant who chooses to leave. Other participants in the meeting can continue their discussion even if someone leaves, and the meeting can still be ongoing. Depending on the meeting settings, other participants may or may not be notified when you leave.
+
+![leave.png](./img/leave.png)
