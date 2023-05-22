@@ -81,3 +81,11 @@ An instant meeting allows you to quickly start a Zoom session without prior sche
     * Clicking on "Copy Invitation" copies the meeting invitation details to your clipboard. The invitation includes the meeting ID, meeting link, and other relevant information. For example, it may include details such as the meeting topic, date, time, and any agenda or attachments you included.
     * Personal Meeting ID (PMI) settings allow you to customize and configure specific options for your recurring meetings. These settings ensure consistent preferences and behaviors for all meetings scheduled using your PMI.
 
+![PMI.png](./img/PMI.png)
+* Waiting room:  The waiting room is a virtual staging area where participants wait until you admit them into the meeting. You can enable or disable the waiting room feature for participants joining your meetings using your PMI. Enabling the waiting room allows you to review and control who enters your meeting, enhancing security and reducing disruptions.
+* Video: Determine the default video settings for participants joining your meetings using your PMI. You can choose whether participants' video should be on or off when they join the meeting.
+
+After configuring your desired PMI settings, make sure to click on the "Save" button to save your preferences.
+Once you have set up and customized the PMI settings to your satisfaction, you can proceed to start the instant meeting by clicking the "New Meeting" button.
+
+![new_meeting.png](./img/new_meeting.png)
