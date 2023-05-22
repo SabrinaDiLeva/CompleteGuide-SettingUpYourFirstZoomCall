@@ -29,7 +29,9 @@ Before diving into the step-by-step instructions, it's essential to ensure you h
 ![sign_up_free.png](./img/sign_up_free.png)
 
 3.	Follow the on-screen instructions to sign up for a free Zoom account using your Gmail email address.
-3.1.	Verify your age and continue.
+
+3.1	Verify your age and continue.
+
 ![verify_your_age.png](./img/verify_your_age.png)
 
 3.2.	Insert your Gmail email address and continue.
