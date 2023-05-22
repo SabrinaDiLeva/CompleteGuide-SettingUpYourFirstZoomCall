@@ -62,3 +62,22 @@ If you are not automatically signed in, click on the "Sign In" button located at
 ![download_center.png](./img/download_center.png)
 
 4.	Run the downloaded file and follow the installation instructions to complete the installation of the Zoom application.
+
+## Starting your first call
+This section presents a detailed guide on the different methods for creating a Zoom meeting. Explore the various approaches outlined here to begin your video conferencing experience effortlessly.
+
+### Launching Zoom from the Application
+By launching the Zoom application, you will gain access to a range of features and options for creating and managing meetings.
+![zoom_application.png](./img/zoom_application.png)
+
+#### Starting an Instant Meeting
+An instant meeting allows you to quickly start a Zoom session without prior scheduling. Before clicking on the "New Meeting" button, you can configure the following options:
+![new_meeting_options.png](./img/new_meeting_options.png)
+
+* Start Without Video: This will initiate the meeting with your audio enabled while keeping your video turned off.
+* In Zoom, your Personal Meeting ID (PMI) is a unique and permanent ID associated with your Zoom account. Using your PMI can be helpful for regular or recurring meetings, as it eliminates the need to generate a new meeting ID for each session. This ensures that the same meeting ID is used for every instance of the meeting, making it easier for participants to remember and join your meetings consistently.
+* Meeting ID: By default, Zoom assigns a unique meeting ID for each meeting you create. Before starting the meeting, you will see a long number displayed, representing the meeting ID. This meeting ID can be shared with participants for them to join your meeting.
+    * If you need to share the meeting ID manually, you can click on the "Copy ID" option. This will copy the meeting ID to your clipboard, allowing you to paste it in an email, chat, or any other communication medium.
+    * Clicking on "Copy Invitation" copies the meeting invitation details to your clipboard. The invitation includes the meeting ID, meeting link, and other relevant information. For example, it may include details such as the meeting topic, date, time, and any agenda or attachments you included.
+    * Personal Meeting ID (PMI) settings allow you to customize and configure specific options for your recurring meetings. These settings ensure consistent preferences and behaviors for all meetings scheduled using your PMI.
+
