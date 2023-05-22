@@ -137,8 +137,10 @@ Remember to click on the "Save" or "Schedule" button after configuring all the m
 * Joining via Meeting ID:
     1.	Open the Zoom application on your computer or mobile device.
     2.	Click on the "Join" button.
+
     ![join.png](./img/join.png)
     3.	Enter the meeting ID provided by the host. Also enter your name and select the video settings you prefer. Click on the "Join" button to join the meeting.
+    
     ![join_meeting.png](./img/join_meeting.png)
 
 #### Joining via Calendar Integration
