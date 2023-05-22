@@ -186,3 +186,13 @@ The Participants panel can be accessed by clicking on the "Participants" button 
 * Clicking on the "More" button reveals additional options for managing participants, such as allowing participants to rename themselves, allowing them to unmute themselves, and more.
 ![participants_more.png](./img/participants_more.png)
 ![participants_advanced.png](./img/participants_advanced.png)
+
+#### Chat
+To access the chat window, click on the "Chat" button in the meeting toolbar at the bottom of the Zoom interface. The chat feature in Zoom allows participants to communicate with each other through text messages during a meeting. By default, messages are sent to everyone in the meeting unless you choose to send a private message to a specific participant.
+![chat.png](./img/chat.png)
+
+* In addition to text messages, Zoom's chat also allows participants to share files and images. To share a file or image, click on the "File" or "Image" icon in the chat input field, and then select the file or image from your device.
+![files.png](./img/files.png)
+
+* At the end of the meeting, you can save the chat log for future reference or documentation purposes. To save the chat, click on the "More" button (represented by three dots) in the chat window, and select the "Save Chat" option.
+![save_chat.png](./img/save_chat.png)
