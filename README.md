@@ -128,3 +128,24 @@ Remember to click on the "Save" or "Schedule" button after configuring all the m
 ![schedule_google_calendar.png](./img/schedule_google_calendar.png)
 
 Remember to click on the "Save" or "Schedule" button after configuring all the meeting details and calendar integration options. By following these steps, you can schedule a meeting via the Zoom application, ensuring that all the necessary details are set and the invitation is ready to be shared with participants.
+
+#### Joining a Zoom Meeting
+* Joining via Meeting Invitation Link:
+    1.	Click on the meeting invitation link provided by the host.
+    2.	The link will redirect you to the Zoom application.
+    3.	If prompted, enter your name and select the audio and video settings you prefer.
+* Joining via Meeting ID:
+    1.	Open the Zoom application on your computer or mobile device.
+    2.	Click on the "Join" button.
+    ![join.png](./img/join.png)
+    3.	Enter the meeting ID provided by the host. Also enter your name and select the video settings you prefer. Click on the "Join" button to join the meeting.
+    ![join_meeting.png](./img/join_meeting.png)
+
+#### Joining via Calendar Integration
+1.	Go to Google Calendar and sign in to your Google account.
+2.	Look for the event in your Google Calendar that corresponds to the Zoom meeting you want to join. The event should display the meeting title, date, and time.
+3.	Click on the event in your Google Calendar to open the event details.
+4.	Within the event details, you should find the Zoom meeting information. Look for the Zoom meeting link, which is usually located in the event description.
+5.	Click on the Zoom meeting and it will open directly in the Zoom application.
+6.	If prompted, enter the meeting ID and password provided in the event details.
+7.	Choose your desired audio and video options based on your preferences and meeting requirements. You can enable or disable your microphone, camera, and speaker as needed.
