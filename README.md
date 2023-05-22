@@ -159,7 +159,7 @@ Remember to click on the "Save" or "Schedule" button after configuring all the m
 You can find the audio and video controls at the bottom left corner of the Zoom meeting window. Enable or disable your microphone and camera by clicking on the respective icons.
 ![audio_video.png](./img/audio_video.png)
 
-### Security
+#### Security
 In the Security menu, you can manage options such as:
 * Lock Meeting: Prevent additional participants from joining the meeting.
 * Enable Waiting Room: Place participants in a virtual waiting area before allowing them into the meeting.
@@ -169,3 +169,20 @@ In the Security menu, you can manage options such as:
 * "Collaborate with Zoom Apps" refers to the integration of third-party applications within the Zoom meeting environment. These apps can be accessed through the Zoom App Marketplace and provide additional functionality tailored to specific needs.
 * Suspend Participant Activities: When enabled, the host can temporarily restrict participants from performing certain activities such as screen sharing, chat, and annotating content.
 ![secutiry.png](./img/secutiry.png)
+
+#### Participants
+To invite more people to a Zoom meeting, you can utilize the "Participants" dropdown menu. 
+![invite.png](./img/invite.png)
+
+* The button “Invite” opens a pop-up that allows you to invite participants from your Zoom contacts list.
+* "Copy Invitation" enables you to copy the meeting invitation text, including the meeting link, meeting ID, and any other information, which you can then share via email, messaging apps, or any other desired communication method.
+
+The Participants panel can be accessed by clicking on the "Participants" button in the Zoom meeting toolbar. The panel displays a list of participants currently in the meeting. They are organized in alphabetical order by default.
+![participants.png](./img/participants.png)
+
+* The host has access to various controls for managing participants listed in the Participants panel. Controls typically include options to mute/unmute their audio and rename their display name.
+![mute_participants.png](./img/mute_participants.png)
+
+* Clicking on the "More" button reveals additional options for managing participants, such as allowing participants to rename themselves, allowing them to unmute themselves, and more.
+![participants_more.png](./img/participants_more.png)
+![participants_advanced.png](./img/participants_advanced.png)
