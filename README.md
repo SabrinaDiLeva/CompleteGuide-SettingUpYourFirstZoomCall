@@ -68,6 +68,7 @@ This section presents a detailed guide on the different methods for creating a Z
 
 ### Launching Zoom from the Application
 By launching the Zoom application, you will gain access to a range of features and options for creating and managing meetings.
+
 ![zoom_application.png](./img/zoom_application.png)
 
 #### Starting an Instant Meeting
@@ -86,6 +87,7 @@ An instant meeting allows you to quickly start a Zoom session without prior sche
 * Video: Determine the default video settings for participants joining your meetings using your PMI. You can choose whether participants' video should be on or off when they join the meeting.
 
 After configuring your desired PMI settings, make sure to click on the "Save" button to save your preferences.
+
 Once you have set up and customized the PMI settings to your satisfaction, you can proceed to start the instant meeting by clicking the "New Meeting" button.
 
 ![new_meeting.png](./img/new_meeting.png)
