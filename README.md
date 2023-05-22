@@ -46,5 +46,19 @@ Before diving into the step-by-step instructions, it's essential to ensure you h
     ![create_your_account.png](./img/create_your_account.png)
 
     3.6.	Ensure your password meets the specified requirements.
-    
+
     ![password_requirements.png](./img/password_requirements.png)
+
+
+## Download Zoom
+1.	After completing the sign-up process, you will be redirected to your [Zoom home page](https://zoom.us/myhome). 
+If you are not automatically signed in, click on the "Sign In" button located at the top-right corner of the page. Enter your Zoom account credentials (email and password).
+![my_home.png](./img/my_home.png)
+
+2.	Click on the "Download Now" button.
+![download_now.png](./img/download_now.png)
+
+3.	You will be redirected to Zoom Downloads. Click on the "Download" button to download the Zoom client for your operating system (Windows, macOS, or Linux).
+![download_center.png](./img/download_center.png)
+
+4.	Run the downloaded file and follow the installation instructions to complete the installation of the Zoom application.
