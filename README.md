@@ -178,11 +178,9 @@ To invite more people to a Zoom meeting, you can utilize the "Participants" drop
 * "Copy Invitation" enables you to copy the meeting invitation text, including the meeting link, meeting ID, and any other information, which you can then share via email, messaging apps, or any other desired communication method.
 
 The Participants panel can be accessed by clicking on the "Participants" button in the Zoom meeting toolbar. The panel displays a list of participants currently in the meeting. They are organized in alphabetical order by default.
-
 ![participants.png](./img/participants.png)
 
 * The host has access to various controls for managing participants listed in the Participants panel. Controls typically include options to mute/unmute their audio and rename their display name.
-
 ![mute_participants.png](./img/mute_participants.png)
 
 * Clicking on the "More" button reveals additional options for managing participants, such as allowing participants to rename themselves, allowing them to unmute themselves, and more.
