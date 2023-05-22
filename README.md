@@ -98,34 +98,33 @@ Scheduling a meeting in advance allows you to plan and organize your virtual gat
 
 1.	Click on the "Schedule " button.
 
-![schedule.png](./img/schedule.png)
+    ![schedule.png](./img/schedule.png)
 
 2.	A scheduling form will appear, allowing you to enter the meeting details.
-
-![schedule_options.png](./img/schedule_options.png)
+    
+    ![schedule_options.png](./img/schedule_options.png)
 
 3.	Enter a descriptive title for your meeting in the "Topic" field.
 4.	Specify the date and time for your meeting. Use the calendar or date picker to select the desired date and time.
-
-![date_time.png](./img/date_time.png)
+ 
+    ![date_time.png](./img/date_time.png)
 
 5.	Customize the duration of the meeting by specifying the start and end times. Zoom’s free version has a 40-minute time limit on meetings. 
 
-![duration.png](./img/duration.png)
+    ![duration.png](./img/duration.png)
 
 6.	Optionally customize the meeting password. You can enter a strong password that participants will need to enter before joining the meeting. Make sure to communicate the password securely to the invited participants.
 7.	Waiting room: When participants join the meeting, they will be placed in a virtual waiting area until you admit them individually or as a group. This allows you to control who enters the meeting, adding an extra layer of security.
 
-![schedule_waiting_room.png](./img/schedule_waiting_room.png)
+    ![schedule_waiting_room.png](./img/schedule_waiting_room.png)
 
 8. Video: Determine the default video settings for participants joining your meetings. You can choose whether participants' video should be on or off when they join the meeting.
 
-![schedule_video.png](./img/schedule_video.png)
+    ![schedule_video.png](./img/schedule_video.png)
 
 9. Calendar Integration: Zoom offers seamless integration with popular calendar applications such as Outlook, Google Calendar, and other calendar platforms. This integration ensures that your Zoom meetings are synchronized with your calendar, allowing you to manage your schedule efficiently and receive timely reminders for upcoming meetings.
-Remember to click on the "Save" or "Schedule" button after configuring all the meeting details and calendar integration options. By following these steps, you can schedule a meeting via the Zoom application, ensuring that all the necessary details are set and the invitation is ready to be shared with participants.
-
-![schedule_google_calendar.png](./img/schedule_google_calendar.png)
+Remember to click on the "Save" or "Schedule" button after configuring all the meeting details and calendar integration options. By following these steps, you can schedule a meeting via the Zoom application, ensuring that all the necessary details are set and the invitation is ready to be shared with participants. 
+    ![schedule_google_calendar.png](./img/schedule_google_calendar.png)
 
 Remember to click on the "Save" or "Schedule" button after configuring all the meeting details and calendar integration options. By following these steps, you can schedule a meeting via the Zoom application, ensuring that all the necessary details are set and the invitation is ready to be shared with participants.
 
@@ -139,8 +138,9 @@ Remember to click on the "Save" or "Schedule" button after configuring all the m
     2.	Click on the "Join" button.
 
     ![join.png](./img/join.png)
+
     3.	Enter the meeting ID provided by the host. Also enter your name and select the video settings you prefer. Click on the "Join" button to join the meeting.
-    
+
     ![join_meeting.png](./img/join_meeting.png)
 
 #### Joining via Calendar Integration
