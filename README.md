@@ -215,6 +215,7 @@ To start screen sharing, locate the "Share Screen" button in the meeting toolbar
 
 #### Record
 To access the recording controls, locate the "Record" button in the meeting toolbar at the bottom of the Zoom interface.
+
 ![record.png](./img/record.png)
 
 * Once the recording has started, you can use the recording controls in the toolbar to manage the recording:
