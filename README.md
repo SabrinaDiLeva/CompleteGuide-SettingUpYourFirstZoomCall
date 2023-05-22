@@ -124,8 +124,9 @@ Scheduling a meeting in advance allows you to plan and organize your virtual gat
 
 9. Calendar Integration: Zoom offers seamless integration with popular calendar applications such as Outlook, Google Calendar, and other calendar platforms. This integration ensures that your Zoom meetings are synchronized with your calendar, allowing you to manage your schedule efficiently and receive timely reminders for upcoming meetings.
 Remember to click on the "Save" or "Schedule" button after configuring all the meeting details and calendar integration options. By following these steps, you can schedule a meeting via the Zoom application, ensuring that all the necessary details are set and the invitation is ready to be shared with participants. 
-    ![schedule_google_calendar.png](./img/schedule_google_calendar.png)
 
+    ![schedule_google_calendar.png](./img/schedule_google_calendar.png)
+    
 Remember to click on the "Save" or "Schedule" button after configuring all the meeting details and calendar integration options. By following these steps, you can schedule a meeting via the Zoom application, ensuring that all the necessary details are set and the invitation is ready to be shared with participants.
 
 #### Joining a Zoom Meeting
