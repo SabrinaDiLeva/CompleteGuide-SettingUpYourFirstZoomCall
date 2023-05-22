@@ -126,7 +126,7 @@ Scheduling a meeting in advance allows you to plan and organize your virtual gat
 Remember to click on the "Save" or "Schedule" button after configuring all the meeting details and calendar integration options. By following these steps, you can schedule a meeting via the Zoom application, ensuring that all the necessary details are set and the invitation is ready to be shared with participants. 
 
     ![schedule_google_calendar.png](./img/schedule_google_calendar.png)
-    
+
 Remember to click on the "Save" or "Schedule" button after configuring all the meeting details and calendar integration options. By following these steps, you can schedule a meeting via the Zoom application, ensuring that all the necessary details are set and the invitation is ready to be shared with participants.
 
 #### Joining a Zoom Meeting
@@ -152,3 +152,20 @@ Remember to click on the "Save" or "Schedule" button after configuring all the m
 5.	Click on the Zoom meeting and it will open directly in the Zoom application.
 6.	If prompted, enter the meeting ID and password provided in the event details.
 7.	Choose your desired audio and video options based on your preferences and meeting requirements. You can enable or disable your microphone, camera, and speaker as needed.
+
+
+### Active Participation during the Meeting
+#### Audio and video options
+You can find the audio and video controls at the bottom left corner of the Zoom meeting window. Enable or disable your microphone and camera by clicking on the respective icons.
+![audio_video.png](./img/audio_video.png)
+
+### Security
+In the Security menu, you can manage options such as:
+* Lock Meeting: Prevent additional participants from joining the meeting.
+* Enable Waiting Room: Place participants in a virtual waiting area before allowing them into the meeting.
+* Manage Participants: Control and monitor participants' audio, video, and screen sharing permissions.
+* Chat: Manage chat privileges, allowing participants to send messages to everyone or only the host.
+* The "Sharing Whiteboard" feature allows participants to collaborate on a shared virtual whiteboard. It provides a digital canvas where participants can draw, write, and annotate using various tools such as pens, shapes, and text.
+* "Collaborate with Zoom Apps" refers to the integration of third-party applications within the Zoom meeting environment. These apps can be accessed through the Zoom App Marketplace and provide additional functionality tailored to specific needs.
+* Suspend Participant Activities: When enabled, the host can temporarily restrict participants from performing certain activities such as screen sharing, chat, and annotating content.
+![secutiry.png](./img/secutiry.png)
