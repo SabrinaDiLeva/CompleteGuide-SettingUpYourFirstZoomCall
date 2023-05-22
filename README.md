@@ -11,8 +11,8 @@ The purpose of this guide is to provide a comprehensive and easy-to-follow resou
 
 ## Prerequisites and Preparations
 Before diving into the step-by-step instructions, it's essential to ensure you have the following prerequisites:
-* Ensure that your computer or laptop meets the minimum system requirements to run Zoom smoothly. Visit the Zoom website for the latest system requirements.
-* Set Up a Gmail Account: If you don't have a Gmail account, create one by visiting the Gmail website and following the sign-up instructions.
+* Ensure that your computer or laptop meets the minimum system requirements to run Zoom smoothly. Visit the [Zoom website](https://zoom.us/) for the latest system requirements.
+* Set Up a Gmail Account: If you don't have a Gmail account, create one by visiting the [Gmail website](https://gmail.com/) and following the sign-up instructions.
 * Make sure you have a compatible web browser (Google Chrome, Mozilla Firefox, Safari, etc.) installed on your computer. If needed, update your browser to the latest version.
 * Ensure that you have a stable and reliable internet connection.
 * Check if you have a working microphone and webcam. For better audio quality, consider using headphones or a headset.
@@ -58,7 +58,7 @@ If you are not automatically signed in, click on the "Sign In" button located at
 2.	Click on the "Download Now" button.
 ![download_now.png](./img/download_now.png)
 
-3.	You will be redirected to Zoom Downloads. Click on the "Download" button to download the Zoom client for your operating system (Windows, macOS, or Linux).
+3.	You will be redirected to [Zoom Downloads](https://zoom.us/download). Click on the "Download" button to download the Zoom client for your operating system (Windows, macOS, or Linux).
 ![download_center.png](./img/download_center.png)
 
 4.	Run the downloaded file and follow the installation instructions to complete the installation of the Zoom application.
