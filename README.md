@@ -30,20 +30,20 @@ Before diving into the step-by-step instructions, it's essential to ensure you h
 
 3.	Follow the on-screen instructions to sign up for a free Zoom account using your Gmail email address.
 
-3.1	Verify your age and continue.
+    3.1	Verify your age and continue.
 
-![verify_your_age.png](./img/verify_your_age.png)
+    ![verify_your_age.png](./img/verify_your_age.png)
 
-3.2.	Insert your Gmail email address and continue.
-![gmail_adress.png](./img/gmail_adress.png)
+    3.2.	Insert your Gmail email address and continue.
+    ![gmail_adress.png](./img/gmail_adress.png)
 
-3.3.	Check your email inbox for a message from Zoom. Locate the email with the subject line containing the verification code. Open the email and copy the 6-digit verification code provided.
+    3.3.	Check your email inbox for a message from Zoom. Locate the email with the subject line containing the verification code. Open the email and copy the 6-digit verification code provided.
 
-3.4	Return to the Zoom sign-up page and enter the verification code in the appropriate field.
-![verification_code.png](./img/verification_code.png)
+    3.4	Return to the Zoom sign-up page and enter the verification code in the appropriate field.
+    ![verification_code.png](./img/verification_code.png)
 
-3.5	Enter your full name and create a secure password for your Zoom account.
-![create_your_account.png](./img/create_your_account.png)
+    3.5	Enter your full name and create a secure password for your Zoom account.
+    ![create_your_account.png](./img/create_your_account.png)
 
-3.6.	Ensure your password meets the specified requirements.
-![password_requirements.png](./img/password_requirements.png)
+    3.6.	Ensure your password meets the specified requirements.
+    ![password_requirements.png](./img/password_requirements.png)
