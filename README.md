@@ -46,4 +46,5 @@ Before diving into the step-by-step instructions, it's essential to ensure you h
     ![create_your_account.png](./img/create_your_account.png)
 
     3.6.	Ensure your password meets the specified requirements.
+    
     ![password_requirements.png](./img/password_requirements.png)
