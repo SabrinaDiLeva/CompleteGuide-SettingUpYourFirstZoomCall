@@ -108,10 +108,12 @@ Scheduling a meeting in advance allows you to plan and organize your virtual gat
 ![date_time.png](./img/date_time.png)
 
 5.	Customize the duration of the meeting by specifying the start and end times. Zoom’s free version has a 40-minute time limit on meetings. 
+
 ![duration.png](./img/duration.png)
 
 6.	Optionally customize the meeting password. You can enter a strong password that participants will need to enter before joining the meeting. Make sure to communicate the password securely to the invited participants.
 7.	Waiting room: When participants join the meeting, they will be placed in a virtual waiting area until you admit them individually or as a group. This allows you to control who enters the meeting, adding an extra layer of security.
+
 ![schedule_waiting_room.png](./img/schedule_waiting_room.png)
 
 8. Video: Determine the default video settings for participants joining your meetings. You can choose whether participants' video should be on or off when they join the meeting.
